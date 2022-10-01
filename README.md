@@ -33,3 +33,27 @@
     >무한정 보존해야하는 도서, 대학논문과 같은 문서에 중요합니다.
 5. ### **어디에나 존재**
     Reddit과 Github등 많은 데스크탑 및 웹 기반 프로그램들이 MarkDown을 지원합니다.
+
+<br>
+
+## **MarkDown 시작하기**
+### MarkDown은 프로그램을 다운로드 할 필요 없이 여러 온라인 MarkDown 편집기를 통해 사용할 수 있습니다.
+<img src="https://user-images.githubusercontent.com/45596014/193408151-62d3138f-8fdb-422c-95c7-8cc461ce2850.png">
+
+##### [출처 - markdownguide.org](https://www.markdownguide.org/getting-started/#websites)
+
+### MarkDown 사용 시 **[Dillinger](https://papago.naver.net/apis/site/proxy?url=https%3A%2F%2Fdillinger.io%2F)** 사이트를 이용하면 별도의 프로그램 설치 없이
+### 적용한 서식을 실시간으로 확인하며 MarkDown을 사용할 수 있습니다.
+
+<br>
+
+## **MarkDown 구조**
+MarkDown은 뒤에서 일어나는 일들을 숨기고 있습니다.
+
+### MarkDown은 **텍스트 파일**로 저장되며 확장자는 **.md / .markdown** 이 있습니다.
+
+### **MarkDown파일 변환**
+MarkDown은 HTML 또는 인쇄 가능한 문서로 변환할 수 있습니다.
+
+
+<img style="background-color:white; box-shadow: 0 5px 20px black;" src="https://user-images.githubusercontent.com/45596014/193408747-286da849-0b84-4198-817d-8131112d8f25.png">
