@@ -9,7 +9,7 @@
 
 <br>
 
-## **MarkDown 구조**
+### **MarkDown**
 MarkDown은 뒤에서 일어나는 일들을 숨기고 있습니다.
 
 - ### MarkDown은 **텍스트 파일**로 저장되며 확장자는 **.md / .markdown** 이 있습니다.
