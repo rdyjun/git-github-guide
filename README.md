@@ -28,27 +28,33 @@ git stash show -p stash@{1}  # 1번째 index의 stash 와 wd 차이 보기
 
 # pop
 git stash pop                # 임시로 저장한 wd 불러오기 (stash 목록에서 빠짐)
-git stash pop --index        # wd와 sa 까지 복사해옴
+git stash pop --index        # wd와 sa 까지 이동 적용
 
 # apply
 git stash apply              # 임시로 저장한 wd 불러오기 (stash 목록 유지)
-git stash apply --index      # wd와 sa 까지 복사해옴
+git stash apply --index      # wd와 sa 까지 복사 적용
 
 # keep index
 git stash --keep-index       # sa는 유지하고 wd만 복사함
 
 git stash branch [브랜치명]    # 브랜치 생성 및 해당 브랜치에 wd, sa, ut 복사
 
-git stash clear              # 
+git stash clear              # stash list 삭제
 ```
 
 ### git clean
 
 ```bash
-git clean     # ut 파일 삭제
+git clean     # ut 파일 삭제 (삭제 안됨)
 git clean -f  # ut 파일 강제 삭제
-git clean -n  # 
-git clean -i  #
+git clean -n  # ut 파일 목록 확인g
+git clean -i  # 대화모드로 삭제
+# Would remove the following item:
+# [삭제 목록]
+# *** Commands ***
+# 1: clean                2: filter by pattern    3: select by numbers
+# 4: ask each             5: quit                 6: help
+# What now>
 ```
 
 # 10주차
