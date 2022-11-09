@@ -66,6 +66,22 @@ git merge [브랜치명]  # 자동으로 3way, fast-forward 구분해서 실행
 git merge [브랜치명] --no-ff  # 3way 방식으로 실행
 ```
 
-|3way|fast-forward|
-|--|--|
-|<img width="280" alt="image" src="https://user-images.githubusercontent.com/45596014/200796640-9ccd2060-f89b-4281-9b42-8011c2d4efce.png">|<img width="280" alt="image" src="https://user-images.githubusercontent.com/45596014/200796797-d92e6fa1-b8ad-4cf4-9022-821c6d7e08b8.png">|
+### 3way
+기본 브랜치 헤드의 위치가 파생된 브랜치의 조상 커밋이 아니라면, 3way로 자동 적용
+
+- 새로운 해시 값이 부여됨
+
+> 즉, 기본 브랜치와 파생된 브랜치에 각각 수정사항이 있다면 3way
+> 파생된 브랜치에만 수정 사항이 있다면 fast-forward 자동 적용
+
+><img width="280" alt="image" src="https://user-images.githubusercontent.com/45596014/200796640-9ccd2060-f89b-4281-9b42-8011c2d4efce.png">
+
+### fast-forward
+파생된 브랜치에만 수정 사항이 있다면 fast-forward 자동 적용
+
+- 새 해시값 부여 안됨
+
+> fast-forward 말고 3way 방식을 사용할 경우 
+`git merge [브랜치명] --no-ff` 사용
+
+<img width="280" alt="image" src="https://user-images.githubusercontent.com/45596014/200796797-d92e6fa1-b8ad-4cf4-9022-821c6d7e08b8.png">
