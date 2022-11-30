@@ -7,7 +7,7 @@
 <kbd>
 <img src="https://user-images.githubusercontent.com/45596014/204702325-34eb1772-a8ff-44c9-9c63-a33c025fe29f.png">
 </kbd>
-3. 이메일 작성
+3. 이메일 작성<br>
 <kbd>
 <img src="https://user-images.githubusercontent.com/45596014/204702480-96f46b87-aa3f-4f1a-85c4-8be41b275038.png">
 </kbd>
