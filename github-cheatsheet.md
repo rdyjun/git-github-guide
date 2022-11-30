@@ -1,31 +1,36 @@
 # **GitHub Cheat Sheet**
 ## **계정 생성**
-1. Github 접속
-    > https://github.com
-2. Sign up(회원가입) 클릭<br>
+### **1. Github 접속**
+https://github.com
+
+### **2. Sign up(회원가입) 클릭**
 <kbd>
 <img src="https://user-images.githubusercontent.com/45596014/204702325-34eb1772-a8ff-44c9-9c63-a33c025fe29f.png">
 </kbd>
-3. 이메일 작성<br>
+
+### **3. 이메일 작성**
 <kbd>
-<img src="https://user-images.githubusercontent.com/45596014/204702480-96f46b87-aa3f-4f1a-85c4-8be41b275038.png">
+<img width="300" src="https://user-images.githubusercontent.com/45596014/204702480-96f46b87-aa3f-4f1a-85c4-8be41b275038.png">
 </kbd>
-4. 활동명(닉네임)<br>
+
+### **4. 활동명(닉네임)**
 <kbd>
-<img src="https://user-images.githubusercontent.com/45596014/204739950-70266395-820f-4e97-8e68-36b9efcaada9.png">
+<img width="300" src="https://user-images.githubusercontent.com/45596014/204739950-70266395-820f-4e97-8e68-36b9efcaada9.png">
 </kbd>
-5. 업데이트 소식 수신여부<br>
+
+### **5. 업데이트 소식 수신여부**
 <kbd>
-<img src="https://user-images.githubusercontent.com/45596014/204749508-4d5da037-c4ea-46f3-bb06-484cb9960062.png">
+<img width="300" src="https://user-images.githubusercontent.com/45596014/204749508-4d5da037-c4ea-46f3-bb06-484cb9960062.png">
 </kbd>
-6. 이메일 인증<br>
+
+### **6. 이메일 인증**
 <kbd>
 <img width="300" src="https://user-images.githubusercontent.com/45596014/204749790-381f989b-f538-4d38-98b9-40209205f4dc.png"><br>
 <img width="300" src="https://user-images.githubusercontent.com/45596014/204750636-05e2666f-68fa-4693-a991-aded8c153927.png">
 </kbd>
 
 ## **저장소 생성**
-1. ### **저장소 생성 창 진입**<br>
+### **1. 저장소 생성 창 진입**<br>
     1-1. Top Repositories -> NEW<br>
     1-2. Start a new repository -> Create a new repository<br>
     1-3. 좌측 [+] 버튼 -> New Repositry
@@ -34,7 +39,7 @@
 <img height="150" src="https://user-images.githubusercontent.com/115057348/204690306-ca3e7377-f8e2-40bd-943a-9fe9974ed46d.jpg">
 </kbd>
 
-2. **저장소 초기화**<br>
+### **2. 저장소 초기화**<br>
     2-1. 저장소명 설정<br>
 <kbd>
 <img height="150" src="https://user-images.githubusercontent.com/45596014/193050451-d76a0abf-27f4-4bd7-b1ab-e5e214463b92.jpg">
@@ -55,7 +60,7 @@
 <img height="200" src="https://user-images.githubusercontent.com/45596014/193049783-11cdf10c-5c6f-4eb1-9f07-b185ff47507d.jpg">
 </kbd>
 
-3. ### **생성 완료**<br>
+### **3. 생성 완료**<br>
 <kbd>
 <img height="36" src="https://user-images.githubusercontent.com/45596014/193056984-f8d08228-1f84-42cc-a7b4-d6e7de1e7444.jpg">
 </kbd>
