@@ -105,7 +105,7 @@ https://github.com
 > ※ 새로운 브랜치를 만들어 커밋할 수 있음
 
 <kbd>
-<img src="https://user-images.githubusercontent.com/45596014/204764314-c119879e-3646-4e6d-87fa-1a5db81abc3a.png">
+<img width="450" src="https://user-images.githubusercontent.com/45596014/204764314-c119879e-3646-4e6d-87fa-1a5db81abc3a.png">
 </kbd>
 
 1-5. 생성 완료<br>
@@ -117,7 +117,7 @@ https://github.com
 2-1-1. 파일 `드래그 & 드랍`<br>
 2-1-2. `choose your files` 를 통해 직접 파일을 선택<br>
 <kbd>
-<img src="https://user-images.githubusercontent.com/45596014/204765377-a2293147-e0f9-4e84-9939-acc3bbd31a2d.png">
+<img width="450" src="https://user-images.githubusercontent.com/45596014/204765377-a2293147-e0f9-4e84-9939-acc3bbd31a2d.png">
 </kbd>
 
 2-2. 커밋 메시지 및 상세 설명 작성<br>
@@ -130,7 +130,7 @@ https://github.com
 > ※ 새로운 브랜치를 만들어 커밋할 수 있음
 
 <kbd>
-<img src="https://user-images.githubusercontent.com/45596014/204764314-c119879e-3646-4e6d-87fa-1a5db81abc3a.png">
+<img width="450" src="https://user-images.githubusercontent.com/45596014/204764314-c119879e-3646-4e6d-87fa-1a5db81abc3a.png">
 </kbd>
 
 2-4. 업로드 완료<br>
