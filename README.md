@@ -7,7 +7,7 @@
 
 <br>
 
-## [**02. MarkDown 시작하기**](/index/02_startmarkdown.md3_use.md)
+## [**02. MarkDown 시작하기**](/index/02_startmarkdown.md)
 
 <br>
 
