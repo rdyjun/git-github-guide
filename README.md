@@ -7,18 +7,10 @@
 
 <br>
 
-## [**02. MarkDown을 사용하는 이유?**](/index/02_whymarkdown.md)
+## [**03. MarkDown 시작하기**](/index/02_startmarkdown.md3_use.md)
 
 <br>
 
-## [**03. MarkDown 시작하기**](/index/03_startmarkdown.md)
-
-<br>
-
-## [**04. MarkDown 구조**](/index/04_markdownstruct.md)
-
-<br>
-
-## [**05. MarkDown 문법**](/index/05_use.md)
+## [**05. MarkDown 문법**](index/03_use.md)
 
 <br>
