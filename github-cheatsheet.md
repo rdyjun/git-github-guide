@@ -1,1 +1,1 @@
-![깃허브 치트시트](https://user-images.githubusercontent.com/45596014/205417776-3258cf8a-98ea-4e2b-a752-26db06a45722.jpg)
+![깃허브 치트시트(그림자)](https://user-images.githubusercontent.com/45596014/205418080-f9182abb-9c12-4f42-ae96-e8b22ed7fcc7.png)
