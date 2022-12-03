@@ -7,10 +7,10 @@
 
 <br>
 
-## [**03. MarkDown 시작하기**](/index/02_startmarkdown.md3_use.md)
+## [**02. MarkDown 시작하기**](/index/02_startmarkdown.md3_use.md)
 
 <br>
 
-## [**05. MarkDown 문법**](index/03_use.md)
+## [**03. MarkDown 문법**](index/03_use.md)
 
 <br>
